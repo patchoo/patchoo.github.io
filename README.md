@@ -1,4 +1,4 @@
-munkiforjamf.github.io
+patchoo.github.io
 ======================
 
 just a redirect to main project page
